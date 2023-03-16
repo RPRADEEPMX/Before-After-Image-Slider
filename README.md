@@ -40,11 +40,15 @@ Studio pro version 9.19.0
 
 
 
-### Result
+### ScreenShot	
 
-![image](https://user-images.githubusercontent.com/126260956/222886662-526e2fae-1419-4ab3-baf4-2761126436b5.png)
+![image](https://user-images.githubusercontent.com/126260956/225604422-b38244d5-8403-4b7a-a494-e43d4f8095ab.png)
+![image](https://user-images.githubusercontent.com/126260956/225604438-5260e03a-e235-4b5f-8a44-b3c22a1e80ee.png)
+![image](https://user-images.githubusercontent.com/126260956/225604453-6eb3dc33-2cf2-4132-9248-ce1a9a612dda.png)
 
-![image](https://user-images.githubusercontent.com/126260956/222886680-026028e5-e8e0-4d55-a2d5-b65f4a7eacbc.png)
+
+
+
 
 
 
